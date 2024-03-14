@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- :computer: Backend Engineer [@Bordeaux_Index](https://bordeauxindex.com/), in London UK
+- :computer: Full Stack Engineer [@Bordeaux_Index](https://bordeauxindex.com/), in London UK
 - :hammer_and_wrench: I build software with: `Go` `C#` `SQL` `Next JS` `Azure` ...
 - 🔭 I’m currently working on [My Fitness Aibou](https://github.com/Lionel-Wilson/My-Fitness-Aibou)
 - ⚡ I enjoy anime, gaming, bouldering, lifting heavy circles and running :) 
