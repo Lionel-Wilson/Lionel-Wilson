@@ -3,8 +3,8 @@
 
 - :computer: Full Stack Engineer in London UK
 - :hammer_and_wrench: I build software with: `SQL` `Go`  `React` `Next JS` `Azure` ...
-- 🔭 I’m currently working on [My Fitness Aibou](https://github.com/Lionel-Wilson/My-Fitness-Aibou)
-- ⚡ I enjoy anime, gaming, bouldering, lifting heavy circles and running :) 
+- 🔭 I’m currently working on [My Language Aibou](https://github.com/Lionel-Wilson/My-Language-Aibou)
+- ⚡ I enjoy language learning, anime, gaming, bouldering, lifting heavy and running :) 
 - :student: Master's in Computer Science
 
 
