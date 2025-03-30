@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- :computer: Full Stack Engineer in London UK
+- :computer: Backend Engineer in London UK
 - :hammer_and_wrench: I build software with: `Postgres` `Go`  `React` `Next JS` `gRPC` ...
 - 🔭 I’m currently working on [My Language Aibou](https://github.com/Lionel-Wilson/My-Language-Aibou) & [Pagasa Centre mobile app](https://github.com/Pagasa-Centre/Pagasa-Centre-Mobile-App-API)
 - ⚡ I enjoy language learning, anime, gaming, bouldering, lifting heavy and running :) 
