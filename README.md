@@ -2,11 +2,10 @@
 
 
 - :computer: Full Stack Engineer in London UK
-- :hammer_and_wrench: I build software with: `SQL` `Go`  `React` `Next JS` `Azure` ...
-- 🔭 I’m currently working on [My Language Aibou](https://github.com/Lionel-Wilson/My-Language-Aibou)
+- :hammer_and_wrench: I build software with: `Postgres` `Go`  `React` `Next JS` `gRPC` ...
+- 🔭 I’m currently working on [My Language Aibou](https://github.com/Lionel-Wilson/My-Language-Aibou) & [Pagasa Centre mobile app](https://github.com/Pagasa-Centre/Pagasa-Centre-Mobile-App-API)
 - ⚡ I enjoy language learning, anime, gaming, bouldering, lifting heavy and running :) 
 - :student: Master's in Computer Science
-
 
 <!--
 [<img src="https://img.shields.io/badge/youtube-%230077B5.svg?&style=for-the-badge&logo=youtube&logoColor=white&color=FF0000" />](https://www.youtube.com/@egorhowell?sub_confirmation=1)
